@@ -27,4 +27,7 @@ The data is available in a single csv file :
 - Listed_in: Genre
 - Description: The summary description
 
-Complete project colab link ---> https://colab.research.google.com/drive/1CcOt3jswLyaHCE7lUOIrCY5vwQ742zXL?usp=sharing
+## 📝 Project Colab Link
+
+- 🎬 [Netflix Business Case](https://colab.research.google.com/drive/1CcOt3jswLyaHCE7lUOIrCY5vwQ742zXL?usp=sharing)
+
