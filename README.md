@@ -26,8 +26,9 @@ The data is available in a single csv file :
 - Duration: Total Duration - in minutes or number of seasons
 - Listed_in: Genre
 - Description: The summary description
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💡 Final Insights and Recommendations
+# 💡 Final Insights and Recommendations
 
 - Focus on producing globally appealing movies/TV shows that match popular genres.
 - Collaborate with top actors and directors to attract a wide audience.
