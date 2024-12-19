@@ -42,5 +42,3 @@ The data is available in a single csv file :
 ## 📝 Project Colab Link
 
 - 🎬 [Netflix Business Case](https://colab.research.google.com/drive/1CcOt3jswLyaHCE7lUOIrCY5vwQ742zXL?usp=sharing)
-- 
-
