@@ -14,8 +14,8 @@ Netflix, along with details such as - cast, directors, ratings, release year, du
 Link : https://www.kaggle.com/shivamb/netflix-shows
 
 The data is available in a single csv file :
-● Show ID : The ID of the show 
-● Type: Identifier - A Movie or TV Show
+- Show ID : The ID of the show 
+- Type: Identifier - A Movie or TV Show
 ● Title: Title of the Movie / Tv Show
 ● Director: Director of the Movie
 ● Cast: Actors involved in the movie/show
