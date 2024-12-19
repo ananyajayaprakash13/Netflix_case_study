@@ -27,7 +27,20 @@ The data is available in a single csv file :
 - Listed_in: Genre
 - Description: The summary description
 
+## 💡 Final Insights and Recommendations
+
+- Focus on producing globally appealing movies/TV shows that match popular genres.
+- Collaborate with top actors and directors to attract a wide audience.
+- Release content during peak times to capture viewer interest.
+- Maintain a strategic gap between release and addition dates to build excitement.
+- Focus on the U.S. market, but do not ignore global users.
+- Avoid offensive content and ensure inclusivity.
+- Keep movie durations shorter and target more popular genres.
+- Continuously evaluate viewer feedback for ongoing improvement.
+
+
 ## 📝 Project Colab Link
 
 - 🎬 [Netflix Business Case](https://colab.research.google.com/drive/1CcOt3jswLyaHCE7lUOIrCY5vwQ742zXL?usp=sharing)
+- 
 
